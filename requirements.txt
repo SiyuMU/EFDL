@@ -1,0 +1,8 @@
+modulus
+numpy
+torch
+trimesh
+sympy
+vtk
+motionSegmentation
+omegaconf 
